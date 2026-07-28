@@ -18,7 +18,6 @@
 <h3 align="center">&#8209;&ensp;Focus&ensp;&#8209;</h3>
 <p align="center">
   <a href="https://github.com/snowflake-chan/agora"><img src="https://img.shields.io/badge/Agora-Open%20Governance-8b5cf6?style=flat-square&logo=github&logoColor=fff&labelColor=1d1d1f" /></a>
-  <a href="https://github.com/natsume-stack/check"><img src="https://img.shields.io/badge/LokiBox-Cloud%20Managed-ffffff?style=flat-square&logo=github&logoColor=fff&labelColor=1d1d1f" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-FastAPI-3776ab?style=flat-square&logo=python&labelColor=1d1d1f" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Svelte-Astro-ff3e00?style=flat-square&logo=svelte&labelColor=1d1d1f" /></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&labelColor=1d1d1f" /></a>
@@ -35,17 +34,6 @@
 <table>
 <tr>
 <td width="50%">
-<h3>LokiBox</h3>
-<p>Cloud-managed enhancement suite for Box3. End-to-end encrypted delivery, ECDSA-signed license enforcement, real-time heartbeat verification, and self-destruct on integrity breach.</p>
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff" />
-  <img src="https://img.shields.io/badge/TiDB-3776ab?style=flat-square&logo=tiDB&logoColor=fff" />
-</p>
-</td>
-<td width="50%">
 <h3>Agora</h3>
 <p>Open community governance platform. Proposal voting, guilds, moderation, self-deploying CI/CD.</p>
 <p>
@@ -57,8 +45,6 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff" />
 </p>
 </td>
-</tr>
-<tr>
 <td width="50%">
 <h3>code&#8209;Kitty&#8209;im</h3>
 <p>Real-time instant messaging client. TypeScript-driven with modern UI.</p>
@@ -67,6 +53,8 @@
   <img src="https://img.shields.io/badge/Vue-4fc08d?style=flat-square&logo=vue.js&logoColor=fff" />
 </p>
 </td>
+</tr>
+<tr>
 <td width="50%">
 <h3>DeepSeek&nbsp;CodeWhale&nbsp;Desktop</h3>
 <p>Desktop application built with Rust. Lightweight, fast, and cross-platform.</p>
@@ -74,6 +62,8 @@
   <img src="https://img.shields.io/badge/Rust-dea584?style=flat-square&logo=rust&logoColor=000" />
   <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
 </p>
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
