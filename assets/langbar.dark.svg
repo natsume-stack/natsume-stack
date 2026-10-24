@@ -29,7 +29,7 @@
 <circle cx="47" cy="116" r="4.5" fill="#41b883"/><text x="58" y="120" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#F2F0EA">Vue</text><text x="87.6" y="120" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#9A968B">1.0%</text>
 <circle cx="243" cy="116" r="4.5" fill="#c6538c"/><text x="254" y="120" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#F2F0EA">SCSS</text><text x="290.8" y="120" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#9A968B">0.9%</text>
 <circle cx="439" cy="116" r="4.5" fill="#b8b5ad"/><text x="450" y="120" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#F2F0EA">其他</text><text x="482.0" y="120" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#9A968B">3.4%</text>
-<text x="42" y="158" font-family="'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', system-ui, sans-serif" font-size="12" fill="#9A968B" opacity="0.75">按 GitHub languages 接口返回的字节数统计，前 6 项合计 96.6%。</text>
+
 </g>
 <rect x="0.5" y="0.5" width="859" height="179" rx="13.5" fill="none" stroke="#262A2E"/>
 </svg>
