@@ -17,11 +17,7 @@
 <text x="44" y="64" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="3.4" fill="#6E6A60">GITHUB · NATSUME-STACK</text>
 <line x1="44" y1="84" x2="126" y2="84" stroke="#D97757" stroke-width="2"/>
 <text x="42" y="150" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="60" letter-spacing="-1.8" fill="#141413">Natsume</text>
-<text x="44" y="188" font-family="'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', system-ui, sans-serif" font-size="16" fill="#6E6A60">把引擎做小，把地图转对，把界面规格写清楚。</text>
-<g><rect x="44.0" y="214" width="93.0" height="27" rx="13.5" fill="none" stroke="#DEDACB"/><text x="56.0" y="232" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#7D7665">TypeScript</text></g>
-<g><rect x="147.0" y="214" width="72.3" height="27" rx="13.5" fill="none" stroke="#DEDACB"/><text x="159.0" y="232" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#7D7665">Node.js</text></g>
-<g><rect x="229.3" y="214" width="70.0" height="27" rx="13.5" fill="none" stroke="#DEDACB"/><text x="241.3" y="232" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#7D7665">设计系统</text></g>
-<g><rect x="309.3" y="214" width="86.1" height="27" rx="13.5" fill="none" stroke="#DEDACB"/><text x="321.3" y="232" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#7D7665">无依赖 CLI</text></g>
+
 <g transform="translate(664,46)">
   <rect x="0" y="0" width="172" height="172" rx="12" fill="none" stroke="#DEDACB"/>
   <rect x="24" y="24" width="124" height="124" rx="8" fill="none" stroke="#D97757" stroke-width="1.5" opacity="0.8"/>
