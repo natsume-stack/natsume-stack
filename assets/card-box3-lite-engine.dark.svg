@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="196" viewBox="0 0 860 196" role="img" aria-label="box3-lite-engine">
+<defs>
+<linearGradient id="washdark" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#E08D6E" stop-opacity="0.2"/>
+  <stop offset="58%" stop-color="#E08D6E" stop-opacity="0"/>
+</linearGradient>
+<pattern id="dotsdark" width="24" height="24" patternUnits="userSpaceOnUse">
+  <circle cx="1.1" cy="1.1" r="1.1" fill="#262A2E"/>
+</pattern>
+<clipPath id="clipdark"><rect width="860" height="196" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#clipdark)">
+<rect width="860" height="196" fill="#0F1113"/>
+<rect width="860" height="196" fill="url(#dotsdark)" opacity="0.5"/>
+<rect width="860" height="196" fill="url(#washdark)"/>
+
+<rect x="0" y="0" width="4" height="196" fill="#E08D6E"/>
+<text x="26" y="42" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="15" fill="#9A968B">02</text>
+<text x="60" y="44" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="19" font-weight="600" letter-spacing="-0.4" fill="#F2F0EA">box3-lite-engine</text>
+<g><rect x="258.4" y="25" width="39.8" height="22" rx="11" fill="none" stroke="#262A2E"/><text x="268.4" y="40" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#9A968B">MIT</text></g>
+<text x="60" y="76" font-family="'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', system-ui, sans-serif" font-size="15" fill="#F2F0EA">BOX3 轻量引擎</text>
+<text x="60" y="101" font-family="'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', system-ui, sans-serif" font-size="13" fill="#9A968B">从 box3-local-engine v2026.1.4 裁剪：无特权开服包、打包 prune、地图兼容性回归闸。</text>
+<g><circle cx="65" cy="124" r="5" fill="#3178c6"/>
+  <text x="76.0" y="128" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#8FA6B2">TypeScript</text>
+  <text x="155.0" y="128" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#9A968B" opacity="0.5">/</text><text x="171.0" y="128" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#8FA6B2">fork-and-slim</text>
+  <text x="270.7" y="128" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#9A968B" opacity="0.5">/</text><text x="286.7" y="128" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#8FA6B2">3–4 容器</text>
+  <text x="347.3" y="128" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#9A968B" opacity="0.5">/</text><text x="363.3" y="128" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#8FA6B2">CI 体积门</text></g>
+<line x1="60" y1="150" x2="820" y2="150" stroke="#262A2E"/>
+<text x="60" y="174" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#9A968B">github.com/natsume-stack/box3-lite-engine</text>
+<g transform="translate(712,52)"><g stroke="#E08D6E" fill="none" stroke-width="1.6">
+    <rect x="14" y="14" width="60" height="60" rx="9"/>
+    <rect x="29" y="29" width="30" height="30" rx="5" fill="#E08D6E" fill-opacity="0.18" stroke="none"/>
+    <path d="M44 0v10M44 78v10M0 44h10M78 44h10" stroke-linecap="round" opacity="0.65"/></g></g>
+</g>
+<rect x="0.5" y="0.5" width="859" height="195" rx="13.5" fill="none" stroke="#262A2E"/>
+</svg>

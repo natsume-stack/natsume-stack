@@ -1,0 +1,61 @@
+{
+  "banner": {
+    "kicker": "github · natsume-stack",
+    "title": "Natsume",
+    "subtitle": "把引擎做小，把地图转对，把界面规格写清楚。",
+    "mono": "N",
+    "tags": ["TypeScript", "Node.js", "设计系统", "无依赖 CLI"]
+  },
+  "projects": [
+    {
+      "slug": "dao3-ui-spec",
+      "index": "01",
+      "name": "dao3-ui-spec",
+      "badge": "public",
+      "glyph": "spec",
+      "lang": "JavaScript",
+      "langColor": "#f1e05a",
+      "meta": ["设计令牌", "59 页拆解", "无依赖采集脚本"],
+      "title": "神奇代码岛界面规格整理",
+      "desc": "dao3.fun 关服后的设计令牌、组件尺寸与配色规范，数值全部实测并标注来源。",
+      "footer": "github.com/natsume-stack/dao3-ui-spec"
+    },
+    {
+      "slug": "box3-lite-engine",
+      "index": "02",
+      "name": "box3-lite-engine",
+      "badge": "MIT",
+      "glyph": "engine",
+      "lang": "TypeScript",
+      "langColor": "#3178c6",
+      "meta": ["fork-and-slim", "3–4 容器", "CI 体积门"],
+      "title": "BOX3 轻量引擎",
+      "desc": "从 box3-local-engine v2026.1.4 裁剪：无特权开服包、打包 prune、地图兼容性回归闸。",
+      "footer": "github.com/natsume-stack/box3-lite-engine"
+    },
+    {
+      "slug": "box3-map-converter",
+      "index": "03",
+      "name": "box3-map-converter",
+      "badge": "private",
+      "glyph": "converter",
+      "lang": "JavaScript",
+      "langColor": "#f1e05a",
+      "meta": ["zip → .boxproject", "零运行时依赖", "Node CLI"],
+      "title": "BOX3 地图格式转换器",
+      "desc": "把 BOX3 导出的 zip 转成 .boxproject 工程包，单文件 CLI，不装任何依赖。",
+      "footer": "私有仓库 · 暂不公开源码"
+    }
+  ],
+  "languagesTitle": "语言分布 · 11 个公开仓库",
+  "languagesNote": "按 GitHub languages 接口返回的字节数统计，前 6 项合计 96.6%。",
+  "languages": [
+    { "name": "TypeScript", "pct": 56.5, "color": "#3178c6" },
+    { "name": "JavaScript", "pct": 30.3, "color": "#f1e05a" },
+    { "name": "Rust", "pct": 5.9, "color": "#dea584" },
+    { "name": "CSS", "pct": 2.0, "color": "#663399" },
+    { "name": "Vue", "pct": 1.0, "color": "#41b883" },
+    { "name": "SCSS", "pct": 0.9, "color": "#c6538c" },
+    { "name": "其他", "pct": 3.4, "color": "#b8b5ad" }
+  ]
+}

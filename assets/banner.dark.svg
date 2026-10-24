@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="272" viewBox="0 0 860 272" role="img" aria-label="Natsume">
+<defs>
+<linearGradient id="washdark" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#E08D6E" stop-opacity="0.2"/>
+  <stop offset="58%" stop-color="#E08D6E" stop-opacity="0"/>
+</linearGradient>
+<pattern id="dotsdark" width="24" height="24" patternUnits="userSpaceOnUse">
+  <circle cx="1.1" cy="1.1" r="1.1" fill="#262A2E"/>
+</pattern>
+<clipPath id="clipdark"><rect width="860" height="272" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#clipdark)">
+<rect width="860" height="272" fill="#0F1113"/>
+<rect width="860" height="272" fill="url(#dotsdark)" opacity="0.5"/>
+<rect width="860" height="272" fill="url(#washdark)"/>
+
+<text x="44" y="64" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="3.4" fill="#9A968B">GITHUB · NATSUME-STACK</text>
+<line x1="44" y1="84" x2="126" y2="84" stroke="#E08D6E" stroke-width="2"/>
+<text x="42" y="150" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="60" letter-spacing="-1.8" fill="#F2F0EA">Natsume</text>
+<text x="44" y="188" font-family="'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', system-ui, sans-serif" font-size="16" fill="#9A968B">把引擎做小，把地图转对，把界面规格写清楚。</text>
+<g><rect x="44.0" y="214" width="93.0" height="27" rx="13.5" fill="none" stroke="#262A2E"/><text x="56.0" y="232" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#8FA6B2">TypeScript</text></g>
+<g><rect x="147.0" y="214" width="72.3" height="27" rx="13.5" fill="none" stroke="#262A2E"/><text x="159.0" y="232" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#8FA6B2">Node.js</text></g>
+<g><rect x="229.3" y="214" width="70.0" height="27" rx="13.5" fill="none" stroke="#262A2E"/><text x="241.3" y="232" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#8FA6B2">设计系统</text></g>
+<g><rect x="309.3" y="214" width="86.1" height="27" rx="13.5" fill="none" stroke="#262A2E"/><text x="321.3" y="232" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#8FA6B2">无依赖 CLI</text></g>
+<g transform="translate(664,46)">
+  <rect x="0" y="0" width="172" height="172" rx="12" fill="none" stroke="#262A2E"/>
+  <rect x="24" y="24" width="124" height="124" rx="8" fill="none" stroke="#E08D6E" stroke-width="1.5" opacity="0.8"/>
+  <rect x="50" y="50" width="72" height="72" rx="6" fill="#E08D6E" opacity="0.15"/>
+  <text x="86" y="97" text-anchor="middle" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="32" fill="#F2F0EA">N</text>
+</g>
+</g>
+<rect x="0.5" y="0.5" width="859" height="271" rx="13.5" fill="none" stroke="#262A2E"/>
+</svg>

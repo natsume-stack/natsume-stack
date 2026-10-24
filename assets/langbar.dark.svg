@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="180" viewBox="0 0 860 180" role="img" aria-label="language distribution">
+<defs>
+<linearGradient id="washdark" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#E08D6E" stop-opacity="0.2"/>
+  <stop offset="58%" stop-color="#E08D6E" stop-opacity="0"/>
+</linearGradient>
+<pattern id="dotsdark" width="24" height="24" patternUnits="userSpaceOnUse">
+  <circle cx="1.1" cy="1.1" r="1.1" fill="#262A2E"/>
+</pattern>
+<clipPath id="clipdark"><rect width="860" height="180" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#clipdark)">
+<rect width="860" height="180" fill="#0F1113"/>
+<rect width="860" height="180" fill="url(#dotsdark)" opacity="0.5"/>
+<rect width="860" height="180" fill="url(#washdark)"/>
+
+<text x="42" y="32" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" letter-spacing="2.8" fill="#9A968B">语言分布 · 11 个公开仓库</text>
+<rect x="42.0" y="50" width="435.9" height="15" rx="3" fill="#3178c6"/>
+<rect x="480.4" y="50" width="232.6" height="15" rx="3" fill="#f1e05a"/>
+<rect x="715.6" y="50" width="43.3" height="15" rx="3" fill="#dea584"/>
+<rect x="761.4" y="50" width="13.0" height="15" rx="3" fill="#663399"/>
+<rect x="776.9" y="50" width="5.3" height="15" rx="3" fill="#41b883"/>
+<rect x="784.6" y="50" width="4.5" height="15" rx="3" fill="#c6538c"/>
+<rect x="791.6" y="50" width="23.9" height="15" rx="3" fill="#b8b5ad"/>
+<circle cx="47" cy="90" r="4.5" fill="#3178c6"/><text x="58" y="94" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#F2F0EA">TypeScript</text><text x="138.0" y="94" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#9A968B">56.5%</text>
+<circle cx="243" cy="90" r="4.5" fill="#f1e05a"/><text x="254" y="94" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#F2F0EA">JavaScript</text><text x="334.0" y="94" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#9A968B">30.3%</text>
+<circle cx="439" cy="90" r="4.5" fill="#dea584"/><text x="450" y="94" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#F2F0EA">Rust</text><text x="486.8" y="94" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#9A968B">5.9%</text>
+<circle cx="635" cy="90" r="4.5" fill="#663399"/><text x="646" y="94" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#F2F0EA">CSS</text><text x="675.6" y="94" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#9A968B">2.0%</text>
+<circle cx="47" cy="116" r="4.5" fill="#41b883"/><text x="58" y="120" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#F2F0EA">Vue</text><text x="87.6" y="120" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#9A968B">1.0%</text>
+<circle cx="243" cy="116" r="4.5" fill="#c6538c"/><text x="254" y="120" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#F2F0EA">SCSS</text><text x="290.8" y="120" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#9A968B">0.9%</text>
+<circle cx="439" cy="116" r="4.5" fill="#b8b5ad"/><text x="450" y="120" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#F2F0EA">其他</text><text x="482.0" y="120" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#9A968B">3.4%</text>
+<text x="42" y="158" font-family="'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', system-ui, sans-serif" font-size="12" fill="#9A968B" opacity="0.75">按 GitHub languages 接口返回的字节数统计，前 6 项合计 96.6%。</text>
+</g>
+<rect x="0.5" y="0.5" width="859" height="179" rx="13.5" fill="none" stroke="#262A2E"/>
+</svg>

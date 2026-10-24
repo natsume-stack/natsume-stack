@@ -1,127 +1,70 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=36&duration=3000&pause=1000&color=F5F5F7&center=true&vCenter=true&width=800&lines=Hey%2C+I%27m+Natsume." />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=36&duration=3000&pause=1000&color=1D1D1F&center=true&vCenter=true&width=800&lines=Hey%2C+I%27m+Natsume." />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=36&duration=3000&pause=1000&color=1D1D1F&center=true&vCenter=true&width=800&lines=Hey%2C+I%27m+Natsume." alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.dark.svg">
+  <img alt="Natsume" src="assets/banner.svg" width="860">
 </picture>
-<p align="center">
-  <samp>
-    Full&#8209;stack developer crafting thoughtful software.
 
-    Clean code. Smart systems. Open governance.
-  </samp>
-</p>
+<br>
 
+做 Box3 / 神奇代码岛这一带的工具：引擎裁剪、地图格式转换、界面规格整理。偏好零依赖的 Node CLI 和能被机器读走的规范文档。
 
----
+中文优先，Issue 里中英文都行。
 
+### 项目
 
-<h3 align="center">&#8209;&ensp;Focus&ensp;&#8209;</h3>
-<p align="center">
-  <a href="https://github.com/snowflake-chan/agora"><img src="https://img.shields.io/badge/Agora-Open%20Governance-8b5cf6?style=flat-square&logo=github&logoColor=fff&labelColor=1d1d1f" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-FastAPI-3776ab?style=flat-square&logo=python&labelColor=1d1d1f" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Svelte-Astro-ff3e00?style=flat-square&logo=svelte&labelColor=1d1d1f" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&labelColor=1d1d1f" /></a>
-</p>
+<a href="https://github.com/natsume-stack/dao3-ui-spec">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-dao3-ui-spec.dark.svg">
+    <img alt="dao3-ui-spec" src="assets/card-dao3-ui-spec.svg" width="860">
+  </picture>
+</a>
 
+<a href="https://github.com/natsume-stack/box3-lite-engine">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-box3-lite-engine.dark.svg">
+    <img alt="box3-lite-engine" src="assets/card-box3-lite-engine.svg" width="860">
+  </picture>
+</a>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-box3-map-converter.dark.svg">
+  <img alt="box3-map-converter（私有仓库）" src="assets/card-box3-map-converter.svg" width="860">
+</picture>
 
+<br>
 
-<details open>
-<summary><b>&ensp;Work</b></summary>
+<details>
+<summary>其他公开仓库</summary>
 
+| 仓库 | 主要语言 | ★ | 最近推送 |
+|---|---|---|---|
+| [pixelops](https://github.com/natsume-stack/pixelops) | JavaScript | 0 | 2026-08-19 |
+| [check](https://github.com/natsume-stack/check) | TypeScript | 1 | 2026-07-29 |
+| [deepseek-codewhale-desktop](https://github.com/natsume-stack/deepseek-codewhale-desktop) | Rust | 0 | 2026-07-26 |
+| [agora](https://github.com/natsume-stack/agora) | — | 0 | 2026-07-24 |
+| [Network-verification](https://github.com/natsume-stack/Network-verification) | TypeScript | 0 | 2026-07-16 |
+| [code-Kitty-im](https://github.com/natsume-stack/code-Kitty-im) | TypeScript | 1 | 2026-05-30 |
+| [bettermaoIM](https://github.com/natsume-stack/bettermaoIM) | Vue | 1 | 2026-03-29 |
+| [newbettermaoim](https://github.com/natsume-stack/newbettermaoim) | — | 0 | 2026-03-27 |
 
-<table>
-<tr>
-<td width="50%">
-<h3>Agora</h3>
-<p>Open community governance platform. Proposal voting, guilds, moderation, self-deploying CI/CD.</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=fff" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff" />
-</p>
-</td>
-<td width="50%">
-<h3>code&#8209;Kitty&#8209;im</h3>
-<p>Real-time instant messaging client. TypeScript-driven with modern UI.</p>
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Vue-4fc08d?style=flat-square&logo=vue.js&logoColor=fff" />
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3>DeepSeek&nbsp;CodeWhale&nbsp;Desktop</h3>
-<p>Desktop application built with Rust. Lightweight, fast, and cross-platform.</p>
-<p>
-  <img src="https://img.shields.io/badge/Rust-dea584?style=flat-square&logo=rust&logoColor=000" />
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
-</p>
-</td>
-<td width="50%">
-</td>
-</tr>
-</table>
 </details>
 
+<details>
+<summary>这些卡片是怎么来的</summary>
 
----
+`assets/` 下的 SVG 全部由 `build/make-assets.js` 生成，内容取自 `build/data.json`，语言占比来自 GitHub `/languages` 接口的真实字节数。改文案或换仓库只动 `data.json`，然后：
 
+```bash
+node build/make-assets.js     # 重新生成 10 个 SVG（明暗各 5）
+node build/check.js           # 拼一张检查图 build/check.html
+```
 
-<details open>
-<summary><b>&ensp;Stack</b></summary>
+没有构建依赖，不需要 `npm install`。
 
-
-<table align="center">
-<tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" />
-<sub>Python</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="36" />
-<sub>FastAPI</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="36" />
-<sub>TypeScript</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=svelte&theme=dark" width="36" />
-<sub>Svelte</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=astro&theme=dark" width="36" />
-<sub>Astro</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=vue&theme=dark" width="36" />
-<sub>Vue</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=rust&theme=dark" width="36" />
-<sub>Rust</sub></td>
-</tr>
-<tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="36" />
-<sub>Tailwind</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="36" />
-<sub>Postgres</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="36" />
-<sub>Redis</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="36" />
-<sub>Docker</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="36" />
-<sub>Nginx</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="36" />
-<sub>Actions</sub></td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="36" />
-<sub>Linux</sub></td>
-</tr>
-</table>
 </details>
 
+<br>
 
----
-
-
-<p align="center">
-  <samp>Get in touch&ensp;·&ensp;<a href="mailto:3121601311@qq.com">Email</a>&ensp;·&ensp;<a href="https://github.com/natsume-stack">GitHub</a></samp>
-</p>
-
-
-<p align="center">
-  <samp>&#8209;</samp>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/langbar.dark.svg">
+  <img alt="语言分布" src="assets/langbar.svg" width="860">
+</picture>
